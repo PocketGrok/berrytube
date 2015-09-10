@@ -13,4 +13,4 @@
 // @grant        GM_getResourceText
 // ==/UserScript==
 
-GM_addStyle( GM_getResourceText( berrytube_css ) );
+GM_addStyle( GM_getResourceText( 'berrytube_css' ) );
