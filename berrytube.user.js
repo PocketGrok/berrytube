@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pocket's BerryTube
 // @namespace    http://pocketdeer.com/projects/berrytube/berrytube.user.js
-// @version      0.1
+// @version      0.1.1
 // @author       PocketGrok
 // @description  Script to make BerryTube how Pocket likes it.
 // @homepage     http://pocketdeer.com/
